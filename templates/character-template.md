@@ -1,9 +1,11 @@
 # [Character Name]
 
-## Basic Info
-- **Race:** 
+## Core Identity
+- **Species:** 
 - **Class:** 
+- **Subclass:** 
 - **Level:** 
+- **XP:** 
 - **Background:** 
 - **Alignment:** 
 - **Player:** 
@@ -14,11 +16,23 @@
 | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 ## Combat Stats
-- **HP:** / 
-- **AC:** 
+- **Armor Class (AC):** 
 - **Initiative:** 
 - **Speed:** 
-- **Proficiency Bonus:** 
+- **Size:** 
+- **Max HP:** 
+- **Current HP:** 
+- **Temp HP:** 
+- **Hit Dice:** 1dX (0/1)
+- **Proficiency Bonus:** +2
+- **Passive Perception:** 
+- **Heroic Inspiration:** No
+
+### Death Saves
+| | 1 | 2 | 3 |
+|------|---|---|---|
+| Success | ○ | ○ | ○ |
+| Failure | ○ | ○ | ○ |
 
 ## Saving Throws
 | Save | Proficient | Modifier |
@@ -31,27 +45,89 @@
 | CHA | | |
 
 ## Skills
-<!-- List proficient skills and modifiers -->
+| Skill | Ability | Proficient | Total |
+|-------|---------|-----------|-------|
+| Acrobatics | DEX | | |
+| Animal Handling | WIS | | |
+| Arcana | INT | | |
+| Athletics | STR | | |
+| Deception | CHA | | |
+| History | INT | | |
+| Insight | WIS | | |
+| Intimidation | CHA | | |
+| Investigation | INT | | |
+| Medicine | WIS | | |
+| Nature | INT | | |
+| Perception | WIS | | |
+| Performance | CHA | | |
+| Persuasion | CHA | | |
+| Religion | INT | | |
+| Sleight of Hand | DEX | | |
+| Stealth | DEX | | |
+| Survival | WIS | | |
 
-## Attacks & Spellcasting
-<!-- Weapon attacks, spell attack modifier, spell save DC -->
+## Weapons & Attacks
+| Weapon | Attack Bonus | Damage | Type | Properties |
+|--------|-------------|--------|------|------------|
+| | | | | |
 
-## Features & Traits
-<!-- Racial traits, class features, feats -->
+## Equipment Proficiencies
+- **Armor:** 
+- **Weapons:** 
+- **Tools:** 
+
+## Class Features
+
+
+## Species Traits
+
+
+## Feats
+
 
 ## Equipment
-<!-- Weapons, armor, adventuring gear -->
 
-## Spellcasting (if applicable)
+
+## Coins
+| CP | SP | EP | GP | PP |
+|----|----|----|----|----|
+| 0  | 0  | 0  | 0  | 0  |
+
+## Spellcasting *(delete this section if not applicable)*
+- **Spellcasting Ability:** 
+- **Spellcasting Modifier:** 
 - **Spell Save DC:** 
-- **Spell Attack Modifier:** 
-- **Spell Slots:** 
+- **Spell Attack Bonus:** 
 
-## Backstory
+### Spell Slots
+| Level | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|-------|---|---|---|---|---|---|---|---|---|
+| Total | | | | | | | | | |
+| Used  | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
+### Cantrips
+| Cantrip | Casting Time | Range | Duration | Effect |
+|---------|-------------|-------|----------|--------|
+| | | | | |
+
+### Prepared/Known Spells
+| Spell | Level | Cast Time | Range | Concentration | Ritual | Components | Effect |
+|-------|-------|-----------|-------|---------------|--------|------------|--------|
+| | | | | | | | |
+
+## Languages
+
+
+## Appearance
+
+
+## Backstory & Personality
+
+
+## DM Tracking
+- **Current XP:** 
+- **Conditions:** None
+- **Inventory Updates:** 
 
 ## Session Notes
-<!-- Track important events, decisions, character development -->
-
-## Inventory Changes
-<!-- Log item gains/losses with dates -->
+- Awaiting first session

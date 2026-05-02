@@ -1,7 +1,7 @@
 ---
-description: Look up D&D 5e rules - spells, conditions, actions, monsters
+description: Look up D&D 5.5e (2024) rules - spells, conditions, actions, monsters
 ---
-Look up D&D 5e SRD rules:
+Look up D&D 5.5e (2024) SRD rules:
 
 Types of lookups:
 - Spell: name, level, casting time, range, components, duration, description

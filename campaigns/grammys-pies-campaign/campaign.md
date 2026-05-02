@@ -2,7 +2,7 @@
 
 ## Overview
 - **Theme:** A lighthearted quest with room for drama and consequence
-- **Setting:** Generic D&D 5e world (homebrew or Forgotten Realms)
+- **Setting:** Generic D&D 5.5e (2024) world (homebrew or Forgotten Realms)
 - **Adventure Module:** Grammy's Country Apple Pie (DRA21)
 - **Starting Level:** 1
 - **Current Level:** 1

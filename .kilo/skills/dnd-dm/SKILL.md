@@ -1,6 +1,6 @@
 ---
 name: dnd-dm
-description: D&D 5th Edition AI Dungeon Master workflow. Use when running D&D sessions, managing campaigns, importing adventures, tracking combat, managing NPCs, or any D&D gameplay activity.
+description: D&D 5.5th Edition (2024 rules) AI Dungeon Master workflow. Use when running D&D sessions, managing campaigns, importing adventures, tracking combat, managing NPCs, or any D&D gameplay activity.
 ---
 
 # D&D AI Dungeon Master Skill
