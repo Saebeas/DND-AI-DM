@@ -1,6 +1,7 @@
 # [Character Name]
 
 ## Core Identity
+- **Campaign:** 
 - **Species:** 
 - **Class:** 
 - **Subclass:** 

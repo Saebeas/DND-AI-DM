@@ -20,7 +20,9 @@
 ---
 
 ## Phase 1: Core Identity
-Ask each of these **one at a time**, waiting for response between each:
+The **Campaign** field is pre-filled from the `/addnewpc` initiation — do NOT ask for it again.
+
+Ask each of the remaining fields **one at a time**, waiting for response between each:
 
 ### 1a. Species
 Ask the co-DM to choose a Species. Use web search to look up the 2024 species traits. After they choose, report ONLY:
@@ -269,8 +271,16 @@ Leave blank unless the co-DM specifies starting magic items. Sheet Location: **M
 ---
 
 ## Phase 8: File Generation
-Once all phases are complete, generate the character file using the comprehensive template in `templates/character-template.md`. Save it to `characters/pcs/<character-name-slug>.md` where the slug is the lowercase, hyphenated name (e.g., `lyra-quickfingers.md`).
+Once all phases are complete, generate the character file using the comprehensive template in `templates/character-template.md`. Save it to `campaigns/<campaign-name>/pcs/<character-name-slug>.md` where:
+- `<campaign-name>` is the campaign directory chosen at the start of `/addnewpc`
+- `<character-name-slug>` is the lowercase, hyphenated name (e.g., `lyra-quickfingers.md`)
 
-If a file already exists for that name, warn the co-DM and ask before overwriting.
+Set the **Campaign** field in Core Identity to the campaign name.
 
-After writing the file, confirm to the co-DM that the character has been saved and provide the file path.
+**Do NOT save to `characters/pcs/`** — that is a legacy/shared location. The authoritative PC file lives inside the campaign folder.
+
+If a file already exists for that name in the campaign's `pcs/` folder, warn the co-DM and ask before overwriting.
+
+After writing the file:
+1. Update `campaigns/<campaign-name>/campaign.md` — add a row to the **Party Roster** table with the character's Name, Race, Class, Level, Player, and Status (Active).
+2. Confirm to the co-DM that the character has been saved and provide the file path.

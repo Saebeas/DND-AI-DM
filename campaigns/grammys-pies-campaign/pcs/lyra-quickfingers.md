@@ -1,6 +1,7 @@
 # Lyra Quickfingers
 
 ## Basic Info
+- **Campaign:** Grammy's Pies Campaign
 - **Race:** Lightfoot Halfling
 - **Class:** Rogue
 - **Level:** 1

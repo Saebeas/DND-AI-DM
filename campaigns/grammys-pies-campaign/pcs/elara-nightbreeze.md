@@ -1,6 +1,7 @@
 # Elara Nightbreeze
 
 ## Basic Info
+- **Campaign:** Grammy's Pies Campaign
 - **Race:** High Elf
 - **Class:** Wizard
 - **Level:** 1

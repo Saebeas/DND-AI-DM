@@ -29,10 +29,10 @@ DND AI DM/
 │       ├── campaign.md         # Campaign overview, party info, active quests
 │       ├── quest-log.md        # Quest tracker (active, completed, failed)
 │       ├── session-log-NN.md   # Session-by-session narrative log
-│       └── decisions.md        # Key player decisions and consequences
-├── characters/                 # PC and important NPC sheets
-│   ├── pcs/
-│   │   └── <char-name>.md     # Full character sheet + backstory + notes
+│       ├── decisions.md        # Key player decisions and consequences
+│       └── pcs/                # Campaign-scoped PC sheets (authoritative)
+│           └── <char-name>.md  # Full character sheet for PCs in this campaign
+├── characters/                 # Legacy shared NPC sheets
 │   └── npcs/
 │       └── <npc-name>.md      # NPC stat block, personality, relationships
 ├── sessions/                   # Active session scratch pad
@@ -65,7 +65,7 @@ DND AI DM/
 1. Read `world-state/current-state.md` for latest world state
 2. Read the active `campaigns/<name>/campaign.md` for party/quest info
 3. Read the latest `campaigns/<name>/session-log-NN.md` for narrative continuity
-4. Read `characters/pcs/*.md` for all PC sheets
+4. Read `campaigns/<name>/pcs/*.md` for all PC sheets in this campaign
 5. Read `npcs/index.md` for NPC quick reference
 6. Present a brief "Previously on..." recap to the co-DM
 

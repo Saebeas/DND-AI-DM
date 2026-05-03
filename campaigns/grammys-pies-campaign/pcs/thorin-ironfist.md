@@ -1,6 +1,7 @@
 # Thorin Ironfist
 
 ## Basic Info
+- **Campaign:** Grammy's Pies Campaign
 - **Race:** Mountain Dwarf
 - **Class:** Fighter
 - **Level:** 1
