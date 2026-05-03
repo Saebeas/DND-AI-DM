@@ -33,7 +33,7 @@ Ask the co-DM: **Roll your hit die** or **take the average** (rounded up)?
 - Update Max HP. Display old vs new.
 
 ## Step 3: Class Features
-Use web search to look up what features the class gains at this level. Present each new feature with a description. Update the Class Features section.
+Use web search to look up what features the class gains at this level. Present each new feature with a description. Update the Class Features section. **ONE SEARCH PER MESSAGE** — if multiple features need lookups, search for and present them one at a time.
 
 Common milestones to flag:
 - Level 2: Usually a key class feature (e.g., Action Surge, Cunning Action, Wild Shape)
@@ -51,7 +51,7 @@ If an ASI (Ability Score Improvement) is gained:
 - Check if new spell slot levels are unlocked.
 - Check how many spells can be added (prepared casters vs known casters).
 - Present the new spell slot table.
-- Ask the co-DM to choose any new cantrips and/or spells. Web search each one.
+- Ask the co-DM to choose any new cantrips and/or spells. Web search each one **ONE AT A TIME** — never search for multiple spells in the same response.
 - Recalculate Spell Save DC and Spell Attack Bonus if Proficiency Bonus changed.
 
 ## Step 5: Subclass Features

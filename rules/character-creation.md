@@ -26,7 +26,7 @@ The **Campaign** field is pre-filled from the `/addnewpc` initiation — do NOT 
 Ask each of the remaining fields **one at a time**, waiting for response between each:
 
 ### 1a. Species
-Ask the co-DM to choose a Species. Use the **DuckDuckGo MCP** (`duckduckgo_duckduckgo_web_search`) to look up the 2024 species traits — keep results brief (one-line per trait). After they choose, report ONLY:
+Ask the co-DM to choose a Species. Use the **DuckDuckGo MCP** (`duckduckgo_duckduckgo_web_search`) to look up the 2024 species traits — keep results brief (one-line per trait). **ONE SEARCH ONLY** — if you need multiple species lookups, do them one at a time across separate messages. After they choose, report ONLY:
 - **Write "Species: [NAME]" below Character Name, left side of header.**
 - One-line summary: Speed, Size.
 - Bullet list of traits (name + one-line description each).
@@ -236,10 +236,10 @@ Sheet Locations on Page 2:
 - **Spell Slots:** Top center block (Levels 1-9).
 
 ### 6b. Cantrips
-Ask the co-DM to choose cantrips (number based on class/level). Use the **DuckDuckGo MCP** (`duckduckgo_duckduckgo_web_search`) to look up each cantrip — report only: Casting Time, Range, Duration, Components, and a one-line effect summary for the physical sheet.
+Ask the co-DM to choose cantrips (number based on class/level). Use the **DuckDuckGo MCP** (`duckduckgo_duckduckgo_web_search`) to look up each cantrip — report only: Casting Time, Range, Duration, Components, and a one-line effect summary for the physical sheet. **Search for each cantrip ONE AT A TIME across separate messages — never search for multiple cantrips in the same response.**
 
 ### 6c. Prepared/Known Spells
-Ask the co-DM to choose spells. Use the **DuckDuckGo MCP** (`duckduckgo_duckduckgo_web_search`) to look up each spell — report only: Level, Casting Time, Range, Duration, Concentration (Y/N), Ritual (Y/N), Components (V/S/M and material cost if any), and a one-line effect summary for the physical sheet.
+Ask the co-DM to choose spells. Use the **DuckDuckGo MCP** (`duckduckgo_duckduckgo_web_search`) to look up each spell — report only: Level, Casting Time, Range, Duration, Concentration (Y/N), Ritual (Y/N), Components (V/S/M and material cost if any), and a one-line effect summary for the physical sheet. **Search for each spell ONE AT A TIME across separate messages — never search for multiple spells in the same response.**
 
 Present each spell clearly formatted. Sheet Location: **Cantrips & Prepared Spells** table on Page 2, left and middle.
 

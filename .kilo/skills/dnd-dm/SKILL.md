@@ -79,6 +79,16 @@ When context is getting long, update files in this priority:
 5. `npcs/index.md` (NPC status changes)
 6. `world-state/timeline.md` (new events)
 
+## DuckDuckGo Search Rules (Rate Limit Protection)
+
+The DuckDuckGo MCP server has a strict 1-request-per-second rate limit and returns errors when hit with concurrent requests. You MUST follow these rules to prevent failures:
+
+1. **ONE SEARCH PER RESPONSE.** NEVER issue multiple `duckduckgo_duckduckgo_web_search` tool calls in a single message. Do one search, wait for the result, then proceed to the next if needed.
+2. **SEARCH SEQUENTIALLY.** If you need to look up two spells (e.g., two cantrips), search for the first, report it, then search for the second in your NEXT message.
+3. **USE KNOWLEDGE FIRST.** Only search when you genuinely need a specific stat you don't know (damage die, range, casting time, AC value). Do NOT search for things you can answer from D&D 5.5e knowledge.
+4. **BRIEF QUERIES.** Search for the minimum: e.g., "fire bolt 5e 2024" not "complete wizard spell list 2024".
+5. **NO PARALLEL SEARCHES.** Even if the co-DM asks about two things at once, search for them one at a time, reporting each result before moving to the next.
+
 ## Co-DM Interaction
 
 - Always present options when multiple paths exist
