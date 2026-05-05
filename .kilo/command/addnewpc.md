@@ -17,6 +17,13 @@ When the co-DM types `/addnewpc`:
 5. Ensure the campaign-scoped PC directory exists at `campaigns/<campaign-name>/pcs/`. Create it if it doesn't exist.
 6. Begin **Phase 1** following the workflow in `rules/character-creation.md`.
 
+## DuckDuckGo Web Search Rules (CRITICAL)
+
+1. **ALWAYS use `duckduckgo_search`** — this is the ONLY valid DuckDuckGo search tool.
+2. **NEVER use `duckduckgo_duckduckgo_web_search`** — this tool DOES NOT EXIST and will cause errors.
+3. **Rate limit: STOP and ask for confirmation between each use of `duckduckgo_search`.** If you do not pause between searches, the tool will break. Ask the co-DM: "Ready for the next DuckDuckGo search?" before proceeding.
+4. **Prefer web search results over training data.** DuckDuckGo search results are more reliable and less prone to hallucination than my own training data. Always search for D&D rules, spells, monsters, and other game content rather than relying on memory.
+
 ## File Save Location
 PC files are saved **per-campaign** under `campaigns/<campaign-name>/pcs/<character-name-slug>.md` — NOT under the global `characters/pcs/` folder. This ensures that when working on a specific adventure, only the PCs belonging to that campaign are loaded.
 
