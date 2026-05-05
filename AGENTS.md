@@ -127,3 +127,10 @@ During combat, maintain this in `sessions/<id>.md`:
 - The co-DM can say "update files" at any time to trigger a full state save
 - If conversation is getting long, proactively suggest: "Shall I save state before we continue?"
 - When context is running low, prioritize: current scene > active combat > quest state > NPC relationships
+
+## DuckDuckGo Web Search Rules (CRITICAL)
+
+1. **ALWAYS use `duckduckgo_search`** — this is the ONLY valid DuckDuckGo search tool.
+2. **NEVER use `duckduckgo_duckduckgo_web_search`** — this tool DOES NOT EXIST and will cause errors.
+3. **Rate limit: STOP and ask for confirmation between each use of `duckduckgo_search`.** If you do not pause between searches, the tool will break. Ask the co-DM: "Ready for the next DuckDuckGo search?" before proceeding.
+4. **Prefer web search results over training data.** DuckDuckGo search results are more reliable and less prone to hallucination than my own training data. Always search for D&D rules, spells, monsters, and other game content rather than relying on memory.

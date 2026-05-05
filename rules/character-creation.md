@@ -5,7 +5,7 @@
 2. **KEEP IT SIMPLE.** When reporting results (species traits, class info, etc.), show ONLY the information relevant to the ONE field being filled in. Do NOT dump full class tables, spell lists, or exhaustive trait descriptions. Give the player the minimum they need to write one field on their sheet, then stop. The player does not need to see the entire Druid spell list when picking a class — they just need to know "Druid, Level 1, write it here."
 3. **SHEET LOCATION FIRST.** Every single response MUST start with exactly WHERE on the physical character sheet to write the value. Format: **"Write [VALUE] in [LOCATION]."** Then a 1-sentence explanation of what it means. Then stop.
 4. **AUTO-CALCULATE & PAUSE.** When a stat can be derived, calculate it automatically. Show ONLY the value and its sheet location. Say: *"Please write this on your physical character sheet. Let me know when you are ready to proceed."*
-5. **USE YOUR KNOWLEDGE FIRST.** You are an expert in D&D 5.5e (2024) rules. Use your training knowledge to fill in character sheet fields — you do NOT need to search for class tables, species blocks, background details, or general rules. Only use the **DuckDuckGo MCP** (`duckduckgo_search` tool) if you are genuinely unsure about a SPECIFIC stat (e.g., a specific weapon's damage die, a specific spell's range/duration, or an armor's base AC). When you do search, make ONE targeted query and extract ONLY the single value you need. NEVER fetch an entire class description, species block, spell list, or equipment table. **BREVITY IS KEY** — the purpose of searching is ONLY to provide short, accurate descriptions that the player can copy onto their physical character sheet (e.g., spell name, casting time, range, damage, one-line effect). The digital character file will serve as the in-game reference for full details during play.
+5. **USE WEB SEARCH FIRST.** Always use the `duckduckgo_search` tool to look up D&D 5.5e (2024) rules — search results are more reliable and less prone to hallucination than training data. When you do search, make ONE targeted query and extract ONLY the single value you need. NEVER fetch an entire class description, species block, spell list, or equipment table. **BREVITY IS KEY** — the purpose of searching is ONLY to provide short, accurate descriptions that the player can copy onto their physical character sheet (e.g., spell name, casting time, range, damage, one-line effect). The digital character file will serve as the in-game reference for full details during play.
 6. **SAVE TO FILE.** At the end, write the character to `characters/pcs/<name-slug>.md` using the comprehensive template.
 
 ## RESPONSE FORMAT RULES
@@ -26,7 +26,7 @@ The **Campaign** field is pre-filled from the `/addnewpc` initiation — do NOT 
 Ask each of the remaining fields **one at a time**, waiting for response between each:
 
 ### 1a. Species
-Ask the co-DM to choose a Species. Use the **DuckDuckGo MCP** (`duckduckgo_search`) to look up the 2024 species traits — keep results brief (one-line per trait). **ONE SEARCH ONLY** — if you need multiple species lookups, do them one at a time across separate messages. After they choose, report ONLY:
+Ask the co-DM to choose a Species. Use `duckduckgo_search` to look up the 2024 species traits — keep results brief (one-line per trait). **ONE SEARCH ONLY** — if you need multiple species lookups, do them one at a time across separate messages. After they choose, report ONLY:
 - **Write "Species: [NAME]" below Character Name, left side of header.**
 - One-line summary: Speed, Size.
 - Bullet list of traits (name + one-line description each).
@@ -184,7 +184,7 @@ Ask for tool proficiencies from Background/Species. Ask for known Languages from
 Ask: **Starting equipment** (class/background defaults) or **rolling for gold** (buy your own)?
 
 ### 5b. Armor & Shield
-Ask what armor (if any) and whether they use a shield. Use the **DuckDuckGo MCP** (`duckduckgo_search`) to look up the armor's base AC — extract only that one value.
+Ask what armor (if any) and whether they use a shield. Use `duckduckgo_search` to look up the armor's base AC — extract only that one value.
 
 **Auto-calculate AC:**
 - Light Armor: Base AC + DEX modifier
@@ -195,7 +195,7 @@ Ask what armor (if any) and whether they use a shield. Use the **DuckDuckGo MCP*
 Sheet Location: **AC** is the large shield shape to the right of the Level circle. **Shield** is the small diamond at the bottom point.
 
 ### 5c. Weapons
-Ask what weapons the character carries. Use the **DuckDuckGo MCP** (`duckduckgo_search`) to look up each weapon's stats — extract only damage die, properties, and weight.
+Ask what weapons the character carries. Use `duckduckgo_search` to look up each weapon's stats — extract only damage die, properties, and weight.
 
 **Auto-calculate for each weapon:**
 - **Attack Bonus:** Relevant ability modifier (STR for melee, DEX for ranged, either for Finesse) + Proficiency Bonus
@@ -236,10 +236,10 @@ Sheet Locations on Page 2:
 - **Spell Slots:** Top center block (Levels 1-9).
 
 ### 6b. Cantrips
-Ask the co-DM to choose cantrips (number based on class/level). Use the **DuckDuckGo MCP** (`duckduckgo_search`) to look up each cantrip — report only: Casting Time, Range, Duration, Components, and a one-line effect summary for the physical sheet. **Search for each cantrip ONE AT A TIME across separate messages — never search for multiple cantrips in the same response.**
+Ask the co-DM to choose cantrips (number based on class/level). Use `duckduckgo_search` to look up each cantrip — report only: Casting Time, Range, Duration, Components, and a one-line effect summary for the physical sheet. **Search for each cantrip ONE AT A TIME across separate messages — never search for multiple cantrips in the same response.**
 
 ### 6c. Prepared/Known Spells
-Ask the co-DM to choose spells. Use the **DuckDuckGo MCP** (`duckduckgo_search`) to look up each spell — report only: Level, Casting Time, Range, Duration, Concentration (Y/N), Ritual (Y/N), Components (V/S/M and material cost if any), and a one-line effect summary for the physical sheet. **Search for each spell ONE AT A TIME across separate messages — never search for multiple spells in the same response.**
+Ask the co-DM to choose spells. Use `duckduckgo_search` to look up each spell — report only: Level, Casting Time, Range, Duration, Concentration (Y/N), Ritual (Y/N), Components (V/S/M and material cost if any), and a one-line effect summary for the physical sheet. **Search for each spell ONE AT A TIME across separate messages — never search for multiple spells in the same response.**
 
 Present each spell clearly formatted. Sheet Location: **Cantrips & Prepared Spells** table on Page 2, left and middle.
 

@@ -79,15 +79,12 @@ When context is getting long, update files in this priority:
 5. `npcs/index.md` (NPC status changes)
 6. `world-state/timeline.md` (new events)
 
-## DuckDuckGo Search Rules (Rate Limit Protection)
+## DuckDuckGo Web Search Rules (CRITICAL)
 
-The DuckDuckGo MCP server has a strict 1-request-per-second rate limit and returns errors when hit with concurrent requests. You MUST follow these rules to prevent failures:
-
-1. **ONE SEARCH PER RESPONSE.** NEVER issue multiple `duckduckgo_search` tool calls in a single message. Do one search, wait for the result, then proceed to the next if needed.
-2. **SEARCH SEQUENTIALLY.** If you need to look up two spells (e.g., two cantrips), search for the first, report it, then search for the second in your NEXT message.
-3. **USE KNOWLEDGE FIRST.** Only search when you genuinely need a specific stat you don't know (damage die, range, casting time, AC value). Do NOT search for things you can answer from D&D 5.5e knowledge.
-4. **BRIEF QUERIES.** Search for the minimum: e.g., "fire bolt 5e 2024" not "complete wizard spell list 2024".
-5. **NO PARALLEL SEARCHES.** Even if the co-DM asks about two things at once, search for them one at a time, reporting each result before moving to the next.
+1. **ALWAYS use `duckduckgo_search`** — this is the ONLY valid DuckDuckGo search tool.
+2. **NEVER use `duckduckgo_duckduckgo_web_search`** — this tool DOES NOT EXIST and will cause errors.
+3. **Rate limit: STOP and ask for confirmation between each use of `duckduckgo_search`.** If you do not pause between searches, the tool will break. Ask the co-DM: "Ready for the next DuckDuckGo search?" before proceeding.
+4. **Prefer web search results over training data.** DuckDuckGo search results are more reliable and less prone to hallucination than my own training data. Always search for D&D rules, spells, monsters, and other game content rather than relying on memory.
 
 ## Co-DM Interaction
 
