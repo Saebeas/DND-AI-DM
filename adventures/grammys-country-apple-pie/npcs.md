@@ -7,7 +7,7 @@
 - **Role:** Wizard, Quest Giver
 - **Location:** His tower (starting area)
 - **Alignment:** Likely Good
-- **Status:** Alive
+- **Status:** Alive and well
 
 ### Appearance
 An elderly man with long, wispy, white hair, milky eyes, and a large hooked nose. Lives in a tower filled with bookshelves, bubbling potions, mysterious trinkets, and ink-stained parchment.
