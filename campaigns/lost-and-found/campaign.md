@@ -12,6 +12,7 @@
 | Character | Race | Class | Level | Player | Status |
 |-----------|------|-------|-------|--------|--------|
 | Toby Two-Lunch | Dwarf | Druid | 1 | timlawry53 | Active |
+| Stabitha | Lightfoot Halfling | Rogue | 1 | Petuniamuffin | Active |
 
 ## Current Situation
 The party has not yet begun the adventure.
