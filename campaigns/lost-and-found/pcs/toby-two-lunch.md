@@ -1,140 +1,172 @@
 # Toby Two-Lunch
 
+## Header Information
 
-## Core Identity
-- **Campaign:** Lost and Found
-- **Species:** Dwarf
-- **Class:** Druid
-- **Subclass:**
-- **Level:** 1
-- **XP:** 0
-- **Background:** Soldier
-- **Alignment:** Lawful Good
-- **Player:** timlawry53
+* Character Name: Toby Two-Lunch
+* Class & Level: Druid 1
+* Player Name: timlawry53
+* Species: Dwarf
+* Background: Soldier
+* Experience Points: 0
 
-## Ability Scores
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 15 (+2) | 17 (+3) | 12 (+1) | 10 (+0) | 13 (+1) | 8 (-1) |
+## Ability Scores & Modifiers
+
+* STRENGTH: 15 (+2)
+* DEXTERITY: 17 (+3)
+* CONSTITUTION: 12 (+1)
+* INTELLIGENCE: 10 (+0)
+* WISDOM: 13 (+1)
+* CHARISMA: 8 (-1)
 
 ## Combat Stats
-- **Armor Class (AC):** 13
-- **Initiative:** +3
-- **Speed:** 30 ft.
-- **Size:** Medium
-- **Max HP:** 10
-- **Current HP:** 10
-- **Temp HP:** --
-- **Hit Dice:** 1d8 (0/1)
-- **Proficiency Bonus:** +2
-- **Passive Perception:** 11
-- **Heroic Inspiration:** No
 
-### Death Saves
-| | 1 | 2 | 3 |
-|------|---|---|---|
-| Success | ○ | ○ | ○ |
-| Failure | ○ | ○ | ○ |
+* Initiative: +3
+* Armor Class: 13
+* Speed: 30 ft. (Walking)
+* Proficiency Bonus: +2
+* Passive Perception: 11
+* Passive Insight: --
+* Passive Investigation: 10
+* Hit Points: Max HP 11 | Current HP 11 | Temp HP --
+* Hit Dice: Total 1d8
+* Death Saves: Successes | Failures
 
 ## Saving Throws
-| Save | Proficient | Modifier |
-|------|-----------|----------|
-| STR | Yes | +2 |
-| DEX | Yes | +3 |
-| CON | Yes | +1 |
-| INT | Yes | +2 |
-| WIS | Yes | +3 |
-| CHA | No | -1 |
+
+* +2 Strength
+* +3 Dexterity
+* +1 Constitution
+* +0 Intelligence
+* +1 Wisdom
+* -1 Charisma
+
+*Saving Throw Modifiers:* Resistance to Poison damage; Advantage on saving throws to avoid or end the Poisoned condition (Dwarven Resilience)
 
 ## Skills
-| Skill | Ability | Proficient | Total |
-|-------|---------|-----------|-------|
-| Acrobatics | DEX | Yes | +3 |
-| Animal Handling | WIS | No | +1 |
-| Arcana | INT | No | +0 |
-| Athletics | STR | Yes | +4 |
-| Deception | CHA | No | -1 |
-| History | INT | No | +0 |
-| Insight | WIS | No | +1 |
-| Intimidation | CHA | Yes | +1 |
-| Investigation | INT | No | +0 |
-| Medicine | WIS | No | +1 |
-| Nature | INT | No | +0 |
-| Perception | WIS | No | +1 |
-| Performance | CHA | No | -1 |
-| Persuasion | CHA | No | -1 |
-| Religion | INT | Yes | +2 |
-| Sleight of Hand | DEX | No | +3 |
-| Stealth | DEX | No | +3 |
-| Survival | WIS | Yes | +3 |
 
-## Weapons & Attacks
-| Weapon | Attack Bonus | Damage | Type | Properties |
-|--------|-------------|--------|------|------------|
-| Magic Stone | +3 | 1d6+1 | Bludgeoning | 1 minute, V/S |
-| Unarmed Strike | +4 | 3 | Bludgeoning | |
+* +3 Acrobatics DEX
+* +1 Animal Handling WIS
+* +0 Arcana INT
+* +4 Athletics STR
+* -1 Deception CHA
+* +0 History INT
+* +1 Insight WIS
+* +1 Intimidation CHA
+* +0 Investigation INT
+* +1 Medicine WIS
+* +0 Nature INT
+* +1 Perception WIS
+* -1 Performance CHA
+* -1 Persuasion CHA
+* +2 Religion INT
+* +3 Sleight of Hand DEX
+* +3 Stealth DEX
+* +3 Survival WIS
 
-## Equipment Proficiencies
-- **Armor:** Light Armor, Medium Armor, Shields
-- **Weapons:** Martial Weapons, Simple Weapons
-- **Tools:** Herbalism Kit, Bowls
+## Proficiencies & Training
 
-## Class Features
-- Spellcasting
-- Druidic
-- Primal Order: Warden
+* ARMOR: Light Armor, Medium Armor, Shields
+* WEAPONS: Martial Weapons, Simple Weapons
+* TOOLS: Herbalism Kit, Bowls
+* LANGUAGES: Common, Dwarvish, Druidic, Turmic
 
-## Species Traits
-- Humanoid creature type
-- Medium size
-- Speed 30 ft.
-- Darkvision 120 ft.
-- Poison resistance and advantage vs. Poisoned
-- Dwarven Toughness (+1 HP maximum)
-- Stonecunning (Tremorsense 60 ft., 2/Long Rest)
+## Actions
+
+* Standard Actions: Attack, Magic, Dash, Disengage, Dodge, Help, Hide, Ready, Search, Utilize, Opportunity Attack, Grapple, Shove, Improvise, Two-Weapon Fighting, Interact with an Object, Study, Influence
+* Unarmed Strike: Hit +4 | Damage 3 Bludgeoning
+
+## Features & Traits
+
+### Druid Features
+
+* Spellcasting (PHB-2024): You can cast druid spells using spell slots. See Spellcasting section below.
+* Druidic (PHB-2024): You know Druidic, the secret language of druids.
+* Primal Order: Warden (PHB-2024): You have trained in wilderness survival and combat, granting you proficiency with Medium armor and martial weapons.
+
+### Dwarf Species Traits
+
+* Creature Type: You are Humanoid.
+* Size: Your Size is Medium.
+* Speed: Your Speed is 30 ft.
+* Darkvision (PHB-2024): You have Dim Light vision within 120 feet of yourself.
+* Dwarven Resilience (PHB-2024): You have Resistance to Poison damage, and you have Advantage on saving throws you make to avoid or end the Poisoned condition.
+* Dwarven Toughness (PHB-2024): Your Hit Maximum increases by 1, and it increases by 1 again whenever you gain a Druid level.
+* Stonecunning (PHB-2024): As a Bonus Action, you gain Tremorsense 60 feet for 10 minutes. You must finish a Long Rest before you can use this trait again.
 
 ## Feats
-- Savage Attacker
-- Soldier Ability Score Improvements
+
+* Savage Attacker (PHB-2024): When you hit a target with a melee weapon attack, you can reroll the weapon's damage dice and use either result. You can use this benefit only once per turn.
+* Soldier Ability Score Improvements (PHB-2024): Increase two scores (+2 / +1).
 
 ## Equipment
-- Shield
-- Leather armor
-- Sickle
-- Backpack
-- Herbalism kit
-- Staff
-- Oil x2
-- Rations x10
-- Rope
-- Bedroll
-- Tinderbox
-- Torch x10
-- Waterskin
 
-## Coins
-| CP | SP | EP | GP | PP |
-|----|----|----|----|----|
-| 0  | 0  | 0  | 59 | 0  |
+* Weight Carried: --
+* Encumbered: --
+* Push/Drag/Lift: --
+* Currency: CP 0 | SP 0 | EP 0 | GP 59 | PP 0
 
-## Spellcasting *(delete this section if not applicable)*
-- **Spellcasting Ability:** WIS
-- **Spellcasting Modifier:** +1
-- **Spell Save DC:** 11
-- **Spell Attack Bonus:** +3
+### Items List
+
+* Shield (1)
+* Leather Armor (1)
+* Sickle (1)
+* Backpack (1)
+* Herbalism Kit (1)
+* Staff (1)
+* Oil (2)
+* Rations (10)
+* Rope (1)
+* Bedroll (1)
+* Tinderbox (1)
+* Torch (10)
+* Waterskin (1)
+
+## Character Details
+
+* Gender: --
+* Age: --
+* Size: Medium
+* Height: --
+* Weight: --
+* Alignment: Lawful Good
+* Faith: --
+* Skin: --
+* Eyes: --
+* Hair: --
+
+## Personal Characteristics
+
+* Personality Traits: --
+* Ideals: --
+* Bonds: --
+* Flaws: --
+
+## Backstory
+
+## Additional Notes
+
+## Spellcasting
+
+* Spellcasting Ability: WIS
+* Spellcasting Modifier: +1
+* Spell Save DC: 11
+* Spell Attack Bonus: +3
 
 ### Spell Slots
+
 | Level | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |-------|---|---|---|---|---|---|---|---|---|
 | Total | 2 | | | | | | | | |
 | Used  | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ### Cantrips
+
 | Cantrip | Casting Time | Range | Duration | Effect |
 |---------|-------------|-------|----------|--------|
 | Magic Stone | 1 BA | Touch | 1 minute | Imbue pebbles to deal magical bludgeoning damage. |
 
 ### Prepared/Known Spells
+
 | Spell | Level | Cast Time | Range | Concentration | Ritual | Components | Effect |
 |-------|-------|-----------|-------|---------------|--------|------------|--------|
 | Absorb Elements | 1 | 1 R | Self | No | No | S | React to elemental damage and store power for your next hit. |
@@ -148,8 +180,8 @@
 | Purify Food and Drink | 1 | 1 A + 10m | 10 ft. | No | Yes | V,S | Remove poison and spoilage from food and drink. |
 | Goodberry | 1 | 1 A | Self | No | No | V,S,M | Create berries that heal and nourish. |
 | Charm Person | 1 | 1 A | 30 ft. | No | No | V,S | Charm a humanoid. |
-| Jump | 1 | 1 BA | Touch | No | No | V,S,M | Triple a creature’s jump distance. |
-| Longstrider | 1 | 1 A | Touch | No | No | V,S,M | Increase a creature’s speed. |
+| Jump | 1 | 1 BA | Touch | No | No | V,S,M | Triple a creature's jump distance. |
+| Longstrider | 1 | 1 A | Touch | No | No | V,S,M | Increase a creature's speed. |
 | Create or Destroy Water | 1 | 1 A | 30 ft. | No | No | V,S,M | Create or destroy water in a small area. |
 | Cure Wounds | 1 | 1 A | Touch | No | No | V,S | Restore hit points. |
 | Detect Poison and Disease | 1 | 1 A + 10m | Self | Yes | Yes | V,S,M | Sense poison and disease nearby. |
@@ -159,20 +191,12 @@
 | Entangle | 1 | 1 A | 90 ft. | Yes | No | V,S | Vines restrain creatures in an area. |
 | Speak with Animals | 1 | 1 A | Self | No | No | V,S | Communicate with beasts. |
 
-## Languages
-- Common
-- Druidic
-- Dwarvish
-- Turmic
-
-## Appearance
-
-## Backstory & Personality
-
 ## DM Tracking
-- **Current XP:** 0
-- **Conditions:** None
-- **Inventory Updates:** None
+
+* Current XP: 0
+* Conditions: None
+* Inventory Updates: None
 
 ## Session Notes
-- Awaiting first session
+
+* Awaiting first session
