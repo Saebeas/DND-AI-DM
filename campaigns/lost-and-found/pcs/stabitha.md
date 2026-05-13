@@ -102,7 +102,7 @@
 * Criminal Ability Score Improvements (PHB-2024 179): Increase two scores (+2 / +1).
 * Weapon Mastery (PHB-2024 129):
   * Dagger (Nick): When you make the extra attack of the Light property, you can make it as part of the Attack action instead of as a Bonus Action. This extra attack can only be made once per turn.
-  * Shortbow (Vex): If you hit a creature with a Shortbow and deal damage to it, you have Advantage on your next attack roll against that creature before the end of your next turn.
+  * Shortsword (Vex): If you hit a creature with a Shortbow and deal damage to it, you have Advantage on your next attack roll against that creature before the end of your next turn.
 
 ## Equipment
 
