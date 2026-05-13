@@ -143,6 +143,8 @@
 
 ## Backstory
 
+ Toby earned his nickname as a young recruit; a massive bully named Grogmar would steal Toby's rations every single day. Tired of being hungry but too disciplined to start a brawl, Toby simply started packing two lunches—one for the bully to take, and one for himself to eat in peace. This habit followed him even as he transitioned from a soldier to a druid, finding that the natural world was far more generous than the barracks
+ 
 ## Additional Notes
 
 ## Spellcasting

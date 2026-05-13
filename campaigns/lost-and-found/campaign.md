@@ -13,6 +13,7 @@
 |-----------|------|-------|-------|--------|--------|
 | Toby Two-Lunch | Dwarf | Druid | 1 | timlawry53 | Active |
 | Stabitha | Lightfoot Halfling | Rogue | 1 | Petuniamuffin | Active |
+| Sudafed Nekulturny | Elf (High Elf) | Paladin | 1 | hmommsen | Active |
 
 ## Current Situation
 The party has not yet begun the adventure.
