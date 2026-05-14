@@ -49,9 +49,9 @@
 | STR | No | +2 |
 | DEX | No | -1 |
 | CON | No | +2 |
-| INT | Yes | +3 |
+| INT | Yes | +1 |
 | WIS | Yes | +2 |
-| CHA | No | +2 |
+| CHA | No | +4 |
 
 ---
 
@@ -61,7 +61,7 @@
 | Acrobatics | DEX | No | -1 |
 | Animal Handling | WIS | No | +0 |
 | Arcana | INT | Yes | +3 |
-| Athletics | STR | No | +2 |
+| Athletics | STR | Yes | +4 |
 | Deception | CHA | No | +2 |
 | History | INT | Yes | +3 |
 | Insight | WIS | Yes | +2 |
@@ -71,7 +71,7 @@
 | Nature | INT | No | +1 |
 | Perception | WIS | No | +0 |
 | Performance | CHA | No | +2 |
-| Persuasion | CHA | No | +2 |
+| Persuasion | CHA | Yes | +4 |
 | Religion | INT | No | +1 |
 | Sleight of Hand | DEX | No | -1 |
 | Stealth | DEX | No | -1 |

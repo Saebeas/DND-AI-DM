@@ -21,7 +21,7 @@
 ## Combat Stats
 
 * Initiative: +2
-* Armor Class: 14 (Leather Armor) 16(With Shield)
+* Armor Class: 14 (Hide Armor) 16(With Shield)
 * Speed: 30 ft. (Walking)
 * Proficiency Bonus: +2
 * Passive Perception: 15
@@ -109,7 +109,7 @@
 
 * Shield (1)
 * Battleaxe (1)
-* Leather Armor (1)
+* Hide Armor (1)
 * Sickle (1)
 * Backpack (1)
 * Herbalism Kit (1)
@@ -166,7 +166,20 @@
 
 | Cantrip | Casting Time | Range | Duration | Effect |
 |---------|-------------|-------|----------|--------|
-| Magic Stone | 1 BA | Touch | 1 minute | Imbue pebbles to deal magical bludgeoning damage. |
+
+| Magic Stone | 1 BA | Touch | 1 minute | Imbue pebbles to deal magical bludgeoning damage. 1d6 + WIS mod. Other can throw them and keep your ability modifier. |
+
+| Elementalism | 1 A | 30 ft | Instantaneous | You exert control over the elements, creating one of the following effects within range:
+
+Beckon Air. You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a 5-foot cube. Doors and shutters being held open by someone or something aren’t affected.
+
+Beckon Earth. You create a thin shroud of dust or sand that covers surfaces in a 5-foot-square area, or you cause a single word to appear in your handwriting in a patch of dirt or sand.
+
+Beckon Fire. You create a thin cloud of harmless embers and colored, scented smoke in a 5-foot cube. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke’s scent lingers for 1 minute.
+
+Beckon Water. You create a spray of cool mist that lightly dampens creatures and objects in a 5-foot cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute.
+
+Sculpt Element. You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot cube to assume a crude shape (such as that of a creature or an object) for 1 hour. |
 
 ### Prepared/Known Spells
 
