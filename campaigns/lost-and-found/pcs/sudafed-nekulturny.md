@@ -31,7 +31,7 @@
 - **Current HP:** 12
 - **Temp HP:** --
 - **Hit Dice:** 1d10
-- **AC:** 18 (Chain Mail)
+- **AC:** 16 (Chain Mail) 18 (With Shield)
 - **Initiative:** -1
 - **Speed:** 30 ft.
 - **Size:** Medium
@@ -134,6 +134,8 @@
 
 ### 1st Level Spells
 - **Shield** (Magic Initiate) — 1R, Self, V/S, 1 round
+- **Bless** (Paladin) — 1B, 30 ft., V/S/M, Concentration up to 1 min - You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.
+- **Divine Smite** (Paladin) — 1B, Self, V, 1 min - The target takes an extra 2d8 Radiant damage from the attack. The damage increases by 1d8 if the target is a Fiend or an Undead. Used after a successful attack.
 
 ---
 

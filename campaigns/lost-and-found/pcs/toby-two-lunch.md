@@ -11,20 +11,20 @@
 
 ## Ability Scores & Modifiers
 
-* STRENGTH: 15 (+2)
-* DEXTERITY: 17 (+3)
-* CONSTITUTION: 12 (+1)
+* STRENGTH: 12 (+1)
+* DEXTERITY: 14 (+2)
+* CONSTITUTION: 15 (+2)
 * INTELLIGENCE: 10 (+0)
-* WISDOM: 13 (+1)
+* WISDOM: 17 (+3)
 * CHARISMA: 8 (-1)
 
 ## Combat Stats
 
-* Initiative: +3
-* Armor Class: 13
+* Initiative: +2
+* Armor Class: 14 (Leather Armor) 16(With Shield)
 * Speed: 30 ft. (Walking)
 * Proficiency Bonus: +2
-* Passive Perception: 11
+* Passive Perception: 15
 * Passive Insight: --
 * Passive Investigation: 10
 * Hit Points: Max HP 11 | Current HP 11 | Temp HP --
@@ -33,35 +33,35 @@
 
 ## Saving Throws
 
-* +2 Strength
-* +3 Dexterity
-* +1 Constitution
-* +0 Intelligence
-* +1 Wisdom
+* +1 Strength
+* +2 Dexterity
+* +2 Constitution
+* +2 Intelligence
+* +5 Wisdom
 * -1 Charisma
 
 *Saving Throw Modifiers:* Resistance to Poison damage; Advantage on saving throws to avoid or end the Poisoned condition (Dwarven Resilience)
 
 ## Skills
 
-* +3 Acrobatics DEX
-* +1 Animal Handling WIS
+* +2 Acrobatics DEX
+* +5 Animal Handling WIS
 * +0 Arcana INT
-* +4 Athletics STR
+* +3 Athletics STR
 * -1 Deception CHA
 * +0 History INT
-* +1 Insight WIS
+* +5 Insight WIS
 * +1 Intimidation CHA
 * +0 Investigation INT
-* +1 Medicine WIS
-* +0 Nature INT
-* +1 Perception WIS
+* +5 Medicine WIS
+* +2 Nature INT
+* +5 Perception WIS
 * -1 Performance CHA
 * -1 Persuasion CHA
 * +2 Religion INT
-* +3 Sleight of Hand DEX
-* +3 Stealth DEX
-* +3 Survival WIS
+* +2 Sleight of Hand DEX
+* +2 Stealth DEX
+* +5 Survival WIS
 
 ## Proficiencies & Training
 
@@ -73,7 +73,7 @@
 ## Actions
 
 * Standard Actions: Attack, Magic, Dash, Disengage, Dodge, Help, Hide, Ready, Search, Utilize, Opportunity Attack, Grapple, Shove, Improvise, Two-Weapon Fighting, Interact with an Object, Study, Influence
-* Unarmed Strike: Hit +4 | Damage 3 Bludgeoning
+* Unarmed Strike: Hit +3 | Damage 2 Bludgeoning
 
 ## Features & Traits
 
@@ -103,11 +103,12 @@
 * Weight Carried: --
 * Encumbered: --
 * Push/Drag/Lift: --
-* Currency: CP 0 | SP 0 | EP 0 | GP 59 | PP 0
+* Currency: CP 0 | SP 0 | EP 0 | GP 49 | PP 0
 
 ### Items List
 
 * Shield (1)
+* Battleaxe (1)
 * Leather Armor (1)
 * Sickle (1)
 * Backpack (1)
@@ -150,9 +151,9 @@
 ## Spellcasting
 
 * Spellcasting Ability: WIS
-* Spellcasting Modifier: +1
-* Spell Save DC: 11
-* Spell Attack Bonus: +3
+* Spellcasting Modifier: +3
+* Spell Save DC: 13
+* Spell Attack Bonus: +5
 
 ### Spell Slots
 
